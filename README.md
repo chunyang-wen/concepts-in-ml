@@ -1,4 +1,7 @@
-Common model architecture and paper
+## Common model architecture and paper
+
++ TOC
+{:toc}
 
 ### Wide and deep
 
