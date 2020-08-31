@@ -32,3 +32,5 @@
 + [Paper](https://arxiv.org/abs/1706.03762)
 
 ![Transformer](/images/transformer.jpg)
+
+<img src="https://page-counter.glitch.me/pixel.svg" />
