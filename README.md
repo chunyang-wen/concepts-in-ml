@@ -33,4 +33,17 @@
 
 ![Transformer](/images/transformer.jpg)
 
+## Sequence2Sequence
+
+![BERT](/images/bert.jpg)
+
++ [The annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
++ [Bert](https://arxiv.org/pdf/1810.04805.pdf)
++ [Paper](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
++ [知乎, CH](https://zhuanlan.zhihu.com/p/36030490)
++ [Transformer 知乎, CH](https://zhuanlan.zhihu.com/p/74723305)
++ [从 Word Embedding 到 BERT, CH](https://zhuanlan.zhihu.com/p/49271699)
++ [CSDN, CH](https://blog.csdn.net/dcrmg/article/details/80327069)
+
+
 <img src="https://page-counter.glitch.me/pixel.svg" />
